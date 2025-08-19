@@ -1,0 +1,82 @@
+[
+  {
+    "model_name": "ADAUSDT_bear_market_navigation",
+    "model_category": "other",
+    "symbol": "ADAUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7465793805204584,
+    "edge_bps": 149.31587610409167,
+    "timestamp": 1755396347.1973753,
+    "features_used": 6
+  },
+  {
+    "model_name": "ADAUSDT_breakout",
+    "model_category": "breakout",
+    "symbol": "ADAUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7552552428914308,
+    "edge_bps": 151.05104857828616,
+    "timestamp": 1755396347.203499,
+    "features_used": 8
+  },
+  {
+    "model_name": "ADAUSDT_crisis_survival",
+    "model_category": "other",
+    "symbol": "ADAUSDT",
+    "prediction": "BUY",
+    "confidence": 0.748170640100062,
+    "edge_bps": 149.63412802001238,
+    "timestamp": 1755396347.2082467,
+    "features_used": 6
+  },
+  {
+    "model_name": "ADAUSDT_market_crash_protection",
+    "model_category": "other",
+    "symbol": "ADAUSDT",
+    "prediction": "SELL",
+    "confidence": 0.8328959254020323,
+    "edge_bps": 166.57918508040646,
+    "timestamp": 1755396347.214753,
+    "features_used": 6
+  },
+  {
+    "model_name": "ADAUSDT_mean_reversion",
+    "model_category": "mean_reversion",
+    "symbol": "ADAUSDT",
+    "prediction": "SELL",
+    "confidence": 0.8519897795850159,
+    "edge_bps": 170.39795591700317,
+    "timestamp": 1755396347.2200544,
+    "features_used": 6
+  },
+  {
+    "model_name": "ADAUSDT_swing_trading",
+    "model_category": "swing_trading",
+    "symbol": "ADAUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7373306145222309,
+    "edge_bps": 147.4661229044462,
+    "timestamp": 1755396347.2324007,
+    "features_used": 6
+  },
+  {
+    "model_name": "ADAUSDT_trend_following",
+    "model_category": "other",
+    "symbol": "ADAUSDT",
+    "prediction": "SELL",
+    "confidence": 0.8768305975167926,
+    "edge_bps": 175.36611950335853,
+    "timestamp": 1755396347.2329147,
+    "features_used": 6
+  },
+  {
+    "model_name": "ADAUSDT_volatility_explosion",
+    "model_category": "other",
+    "symbol": "ADAUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7252459047599801,
+    "edge_bps": 145.04918095199602,
+    "timestamp": 1755396347.2396193,
+    "features_used": 5
+  }
+]
