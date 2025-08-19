@@ -1,0 +1,212 @@
+[
+  {
+    "model_name": "BNBUSDT_bear_market_navigation",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7045143238730692,
+    "edge_bps": 140.90286477461385,
+    "timestamp": 1755395762.1455216,
+    "features_used": 5
+  },
+  {
+    "model_name": "BNBUSDT_breakout_advanced",
+    "model_category": "breakout",
+    "symbol": "BNBUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7170516850800545,
+    "edge_bps": 143.41033701601089,
+    "timestamp": 1755395762.151925,
+    "features_used": 8
+  },
+  {
+    "model_name": "BNBUSDT_breakout",
+    "model_category": "breakout",
+    "symbol": "BNBUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7636309503006278,
+    "edge_bps": 152.72619006012556,
+    "timestamp": 1755395762.152404,
+    "features_used": 8
+  },
+  {
+    "model_name": "BNBUSDT_cross_asset_risk",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9616031881502647,
+    "edge_bps": 192.32063763005294,
+    "timestamp": 1755395762.1719816,
+    "features_used": 3
+  },
+  {
+    "model_name": "BNBUSDT_crypto_carry",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9700341490714901,
+    "edge_bps": 194.00682981429802,
+    "timestamp": 1755395762.177005,
+    "features_used": 3
+  },
+  {
+    "model_name": "BNBUSDT_ehlers_mesa_cycle",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7630885862703035,
+    "edge_bps": 152.6177172540607,
+    "timestamp": 1755395762.1897094,
+    "features_used": 4
+  },
+  {
+    "model_name": "BNBUSDT_equal_risk_contrib",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9616031881502647,
+    "edge_bps": 192.32063763005294,
+    "timestamp": 1755395762.2021668,
+    "features_used": 3
+  },
+  {
+    "model_name": "BNBUSDT_hrp_allocation",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.948969453798814,
+    "edge_bps": 189.7938907597628,
+    "timestamp": 1755395762.2340736,
+    "features_used": 4
+  },
+  {
+    "model_name": "BNBUSDT_ichimoku_cloud",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.8567404850546496,
+    "edge_bps": 171.34809701092993,
+    "timestamp": 1755395762.2419052,
+    "features_used": 4
+  },
+  {
+    "model_name": "BNBUSDT_kalman_spread",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.888943457893378,
+    "edge_bps": 177.7886915786756,
+    "timestamp": 1755395762.2423623,
+    "features_used": 4
+  },
+  {
+    "model_name": "BNBUSDT_market_crash_protection",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9909638371290544,
+    "edge_bps": 198.1927674258109,
+    "timestamp": 1755395762.2675693,
+    "features_used": 5
+  },
+  {
+    "model_name": "BNBUSDT_mathematical_patterns",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.8903961861576428,
+    "edge_bps": 178.07923723152857,
+    "timestamp": 1755395762.268029,
+    "features_used": 5
+  },
+  {
+    "model_name": "BNBUSDT_max_profit_extractor",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7150312800768839,
+    "edge_bps": 143.00625601537678,
+    "timestamp": 1755395762.274424,
+    "features_used": 4
+  },
+  {
+    "model_name": "BNBUSDT_mean_reversion",
+    "model_category": "mean_reversion",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9153367466448575,
+    "edge_bps": 183.06734932897152,
+    "timestamp": 1755395762.2748628,
+    "features_used": 6
+  },
+  {
+    "model_name": "BNBUSDT_mean_reversion_pro",
+    "model_category": "mean_reversion",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9089708825820535,
+    "edge_bps": 181.7941765164107,
+    "timestamp": 1755395762.275333,
+    "features_used": 7
+  },
+  {
+    "model_name": "BNBUSDT_pairs_cointegration",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7222093501619254,
+    "edge_bps": 144.44187003238508,
+    "timestamp": 1755395762.3026268,
+    "features_used": 3
+  },
+  {
+    "model_name": "BNBUSDT_social_sentiment",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7052508711892899,
+    "edge_bps": 141.05017423785796,
+    "timestamp": 1755395762.3185797,
+    "features_used": 3
+  },
+  {
+    "model_name": "BNBUSDT_swing_trading",
+    "model_category": "swing_trading",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9214179924613701,
+    "edge_bps": 184.28359849227402,
+    "timestamp": 1755395762.3365402,
+    "features_used": 6
+  },
+  {
+    "model_name": "BNBUSDT_swing_trading_pro",
+    "model_category": "swing_trading",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9214179924613701,
+    "edge_bps": 184.28359849227402,
+    "timestamp": 1755395762.3419456,
+    "features_used": 6
+  },
+  {
+    "model_name": "BNBUSDT_trend_following",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9201417506000389,
+    "edge_bps": 184.0283501200078,
+    "timestamp": 1755395762.3493948,
+    "features_used": 6
+  },
+  {
+    "model_name": "BNBUSDT_trend_following_pro",
+    "model_category": "other",
+    "symbol": "BNBUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9201417506000389,
+    "edge_bps": 184.0283501200078,
+    "timestamp": 1755395762.354864,
+    "features_used": 6
+  }
+]
