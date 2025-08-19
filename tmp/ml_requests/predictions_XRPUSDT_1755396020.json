@@ -1,0 +1,12 @@
+[
+  {
+    "model_name": "XRPUSDT_swing_trading",
+    "model_category": "swing_trading",
+    "symbol": "XRPUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7730824413968029,
+    "edge_bps": 154.6164882793606,
+    "timestamp": 1755396020.8621345,
+    "features_used": 6
+  }
+]
