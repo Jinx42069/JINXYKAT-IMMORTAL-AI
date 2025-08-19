@@ -1,0 +1,132 @@
+[
+  {
+    "model_name": "ETHUSDT_crisis_survival",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7166839978257077,
+    "edge_bps": 143.33679956514155,
+    "timestamp": 1755396532.7363834,
+    "features_used": 6
+  },
+  {
+    "model_name": "ETHUSDT_cross_asset_risk",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "BUY",
+    "confidence": 0.914433473051202,
+    "edge_bps": 182.8866946102404,
+    "timestamp": 1755396532.7368112,
+    "features_used": 3
+  },
+  {
+    "model_name": "ETHUSDT_crypto_carry",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "BUY",
+    "confidence": 0.8007304101243641,
+    "edge_bps": 160.1460820248728,
+    "timestamp": 1755396532.743112,
+    "features_used": 3
+  },
+  {
+    "model_name": "ETHUSDT_ehlers_mesa_cycle",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7787113587454986,
+    "edge_bps": 155.7422717490997,
+    "timestamp": 1755396532.7486312,
+    "features_used": 4
+  },
+  {
+    "model_name": "ETHUSDT_equal_risk_contrib",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "BUY",
+    "confidence": 0.914433473051202,
+    "edge_bps": 182.8866946102404,
+    "timestamp": 1755396532.74946,
+    "features_used": 3
+  },
+  {
+    "model_name": "ETHUSDT_grid_trading",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7039475902413476,
+    "edge_bps": 140.7895180482695,
+    "timestamp": 1755396532.7707818,
+    "features_used": 3
+  },
+  {
+    "model_name": "ETHUSDT_ichimoku_cloud",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9362292129031362,
+    "edge_bps": 187.24584258062725,
+    "timestamp": 1755396532.7820156,
+    "features_used": 4
+  },
+  {
+    "model_name": "ETHUSDT_kelly_sizing",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7039475902413476,
+    "edge_bps": 140.7895180482695,
+    "timestamp": 1755396532.7827203,
+    "features_used": 3
+  },
+  {
+    "model_name": "ETHUSDT_liquidation_detector",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7742830764441035,
+    "edge_bps": 154.8566152888207,
+    "timestamp": 1755396532.7885153,
+    "features_used": 4
+  },
+  {
+    "model_name": "ETHUSDT_market_crash_protection",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "BUY",
+    "confidence": 0.8498978552866399,
+    "edge_bps": 169.97957105732797,
+    "timestamp": 1755396532.8002472,
+    "features_used": 5
+  },
+  {
+    "model_name": "ETHUSDT_pivot_points",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "SELL",
+    "confidence": 0.8384263135259253,
+    "edge_bps": 167.68526270518507,
+    "timestamp": 1755396532.8617983,
+    "features_used": 3
+  },
+  {
+    "model_name": "ETHUSDT_tick_imbalance",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7396082981162475,
+    "edge_bps": 147.9216596232495,
+    "timestamp": 1755396532.914082,
+    "features_used": 3
+  },
+  {
+    "model_name": "ETHUSDT_volatility_explosion",
+    "model_category": "other",
+    "symbol": "ETHUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7950816098241971,
+    "edge_bps": 159.01632196483942,
+    "timestamp": 1755396532.915434,
+    "features_used": 5
+  }
+]
