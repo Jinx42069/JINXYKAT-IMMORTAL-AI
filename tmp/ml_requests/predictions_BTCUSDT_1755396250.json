@@ -1,0 +1,102 @@
+[
+  {
+    "model_name": "BTCUSDT_bollinger_squeeze",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7731998944197518,
+    "edge_bps": 154.63997888395036,
+    "timestamp": 1755396250.642963,
+    "features_used": 5
+  },
+  {
+    "model_name": "BTCUSDT_cross_asset_risk",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7753434720251249,
+    "edge_bps": 155.06869440502498,
+    "timestamp": 1755396250.6607697,
+    "features_used": 3
+  },
+  {
+    "model_name": "BTCUSDT_equal_risk_contrib",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7753434720251249,
+    "edge_bps": 155.06869440502498,
+    "timestamp": 1755396250.6838832,
+    "features_used": 3
+  },
+  {
+    "model_name": "BTCUSDT_hilbert_trend_phase",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7063794324488429,
+    "edge_bps": 141.2758864897686,
+    "timestamp": 1755396250.7129574,
+    "features_used": 4
+  },
+  {
+    "model_name": "BTCUSDT_hrp_allocation",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9557605979862784,
+    "edge_bps": 191.15211959725568,
+    "timestamp": 1755396250.7134676,
+    "features_used": 4
+  },
+  {
+    "model_name": "BTCUSDT_ichimoku_cloud",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9628150125825758,
+    "edge_bps": 192.56300251651516,
+    "timestamp": 1755396250.7143764,
+    "features_used": 4
+  },
+  {
+    "model_name": "BTCUSDT_macro_release_halts",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7077677225509948,
+    "edge_bps": 141.55354451019898,
+    "timestamp": 1755396250.757143,
+    "features_used": 3
+  },
+  {
+    "model_name": "BTCUSDT_market_crash_protection",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.8637133060250699,
+    "edge_bps": 172.74266120501397,
+    "timestamp": 1755396250.7637348,
+    "features_used": 5
+  },
+  {
+    "model_name": "BTCUSDT_trend_following",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9004079824693779,
+    "edge_bps": 180.0815964938756,
+    "timestamp": 1755396250.8484595,
+    "features_used": 6
+  },
+  {
+    "model_name": "BTCUSDT_trend_following_pro",
+    "model_category": "other",
+    "symbol": "BTCUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9004079824693779,
+    "edge_bps": 180.0815964938756,
+    "timestamp": 1755396250.8551576,
+    "features_used": 6
+  }
+]
