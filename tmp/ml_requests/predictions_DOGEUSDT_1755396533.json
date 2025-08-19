@@ -1,0 +1,32 @@
+[
+  {
+    "model_name": "DOGEUSDT_breakout",
+    "model_category": "breakout",
+    "symbol": "DOGEUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7267286459261199,
+    "edge_bps": 145.34572918522397,
+    "timestamp": 1755396533.350237,
+    "features_used": 8
+  },
+  {
+    "model_name": "DOGEUSDT_trend_following",
+    "model_category": "other",
+    "symbol": "DOGEUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9874296296296297,
+    "edge_bps": 197.48592592592593,
+    "timestamp": 1755396533.3750744,
+    "features_used": 6
+  },
+  {
+    "model_name": "DOGEUSDT_volatility_explosion",
+    "model_category": "other",
+    "symbol": "DOGEUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7819603747971787,
+    "edge_bps": 156.39207495943575,
+    "timestamp": 1755396533.3755434,
+    "features_used": 5
+  }
+]
