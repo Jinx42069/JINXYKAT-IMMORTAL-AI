@@ -1,0 +1,52 @@
+[
+  {
+    "model_name": "AVAXUSDT_bear_market_navigation",
+    "model_category": "other",
+    "symbol": "AVAXUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7750716107377228,
+    "edge_bps": 155.01432214754456,
+    "timestamp": 1755395731.3575108,
+    "features_used": 6
+  },
+  {
+    "model_name": "AVAXUSDT_breakout",
+    "model_category": "breakout",
+    "symbol": "AVAXUSDT",
+    "prediction": "BUY",
+    "confidence": 0.8163963940184356,
+    "edge_bps": 163.2792788036871,
+    "timestamp": 1755395731.3628669,
+    "features_used": 8
+  },
+  {
+    "model_name": "AVAXUSDT_crisis_survival",
+    "model_category": "other",
+    "symbol": "AVAXUSDT",
+    "prediction": "BUY",
+    "confidence": 0.8152704810222217,
+    "edge_bps": 163.05409620444433,
+    "timestamp": 1755395731.369129,
+    "features_used": 6
+  },
+  {
+    "model_name": "AVAXUSDT_market_crash_protection",
+    "model_category": "other",
+    "symbol": "AVAXUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9237862626653213,
+    "edge_bps": 184.75725253306425,
+    "timestamp": 1755395731.3696375,
+    "features_used": 6
+  },
+  {
+    "model_name": "AVAXUSDT_volatility_explosion",
+    "model_category": "other",
+    "symbol": "AVAXUSDT",
+    "prediction": "BUY",
+    "confidence": 0.8400414772990118,
+    "edge_bps": 168.00829545980235,
+    "timestamp": 1755395731.4035964,
+    "features_used": 5
+  }
+]
