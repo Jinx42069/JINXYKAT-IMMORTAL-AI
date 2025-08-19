@@ -1,0 +1,82 @@
+[
+  {
+    "model_name": "DOTUSDT_bear_market_navigation",
+    "model_category": "other",
+    "symbol": "DOTUSDT",
+    "prediction": "BUY",
+    "confidence": 0.9335239100549683,
+    "edge_bps": 186.70478201099365,
+    "timestamp": 1755395762.8117778,
+    "features_used": 6
+  },
+  {
+    "model_name": "DOTUSDT_breakout",
+    "model_category": "breakout",
+    "symbol": "DOTUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7518916925165771,
+    "edge_bps": 150.3783385033154,
+    "timestamp": 1755395762.818691,
+    "features_used": 8
+  },
+  {
+    "model_name": "DOTUSDT_crisis_survival",
+    "model_category": "other",
+    "symbol": "DOTUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7670206238200322,
+    "edge_bps": 153.40412476400644,
+    "timestamp": 1755395762.8242307,
+    "features_used": 6
+  },
+  {
+    "model_name": "DOTUSDT_market_crash_protection",
+    "model_category": "other",
+    "symbol": "DOTUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9498041392619713,
+    "edge_bps": 189.96082785239426,
+    "timestamp": 1755395762.8247342,
+    "features_used": 6
+  },
+  {
+    "model_name": "DOTUSDT_mean_reversion",
+    "model_category": "mean_reversion",
+    "symbol": "DOTUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7294592765145046,
+    "edge_bps": 145.89185530290092,
+    "timestamp": 1755395762.8313463,
+    "features_used": 6
+  },
+  {
+    "model_name": "DOTUSDT_swing_trading",
+    "model_category": "swing_trading",
+    "symbol": "DOTUSDT",
+    "prediction": "SELL",
+    "confidence": 0.9045239581700364,
+    "edge_bps": 180.90479163400727,
+    "timestamp": 1755395762.8572721,
+    "features_used": 6
+  },
+  {
+    "model_name": "DOTUSDT_trend_following",
+    "model_category": "other",
+    "symbol": "DOTUSDT",
+    "prediction": "SELL",
+    "confidence": 0.8174018068268372,
+    "edge_bps": 163.48036136536743,
+    "timestamp": 1755395762.8577921,
+    "features_used": 6
+  },
+  {
+    "model_name": "DOTUSDT_volatility_explosion",
+    "model_category": "other",
+    "symbol": "DOTUSDT",
+    "prediction": "BUY",
+    "confidence": 0.8103076208222473,
+    "edge_bps": 162.06152416444945,
+    "timestamp": 1755395762.8635678,
+    "features_used": 5
+  }
+]
