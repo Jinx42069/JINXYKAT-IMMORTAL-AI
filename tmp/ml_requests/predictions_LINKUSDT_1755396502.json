@@ -1,0 +1,42 @@
+[
+  {
+    "model_name": "LINKUSDT_crisis_survival",
+    "model_category": "other",
+    "symbol": "LINKUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7644705517191202,
+    "edge_bps": 152.89411034382402,
+    "timestamp": 1755396502.3353236,
+    "features_used": 6
+  },
+  {
+    "model_name": "LINKUSDT_survivability",
+    "model_category": "survivability",
+    "symbol": "LINKUSDT",
+    "prediction": "SELL",
+    "confidence": 0.7254345062001144,
+    "edge_bps": 145.08690124002288,
+    "timestamp": 1755396502.349262,
+    "features_used": 6
+  },
+  {
+    "model_name": "LINKUSDT_trend_following",
+    "model_category": "other",
+    "symbol": "LINKUSDT",
+    "prediction": "BUY",
+    "confidence": 0.8067650891471261,
+    "edge_bps": 161.35301782942523,
+    "timestamp": 1755396502.355704,
+    "features_used": 6
+  },
+  {
+    "model_name": "LINKUSDT_volatility_explosion",
+    "model_category": "other",
+    "symbol": "LINKUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7224880030162626,
+    "edge_bps": 144.49760060325252,
+    "timestamp": 1755396502.3596916,
+    "features_used": 5
+  }
+]
