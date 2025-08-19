@@ -1,0 +1,62 @@
+[
+  {
+    "model_name": "SOLUSDT_bear_market_navigation",
+    "model_category": "other",
+    "symbol": "SOLUSDT",
+    "prediction": "BUY",
+    "confidence": 0.789621014372343,
+    "edge_bps": 157.9242028744686,
+    "timestamp": 1755396020.778718,
+    "features_used": 6
+  },
+  {
+    "model_name": "SOLUSDT_breakout",
+    "model_category": "breakout",
+    "symbol": "SOLUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7362429987353977,
+    "edge_bps": 147.24859974707954,
+    "timestamp": 1755396020.782909,
+    "features_used": 8
+  },
+  {
+    "model_name": "SOLUSDT_crisis_survival",
+    "model_category": "other",
+    "symbol": "SOLUSDT",
+    "prediction": "BUY",
+    "confidence": 0.7721718168255438,
+    "edge_bps": 154.43436336510877,
+    "timestamp": 1755396020.786992,
+    "features_used": 6
+  },
+  {
+    "model_name": "SOLUSDT_mean_reversion",
+    "model_category": "mean_reversion",
+    "symbol": "SOLUSDT",
+    "prediction": "BUY",
+    "confidence": 0.8137634642080438,
+    "edge_bps": 162.75269284160876,
+    "timestamp": 1755396020.7911444,
+    "features_used": 6
+  },
+  {
+    "model_name": "SOLUSDT_trend_following",
+    "model_category": "other",
+    "symbol": "SOLUSDT",
+    "prediction": "BUY",
+    "confidence": 0.862758396749984,
+    "edge_bps": 172.5516793499968,
+    "timestamp": 1755396020.8037312,
+    "features_used": 6
+  },
+  {
+    "model_name": "SOLUSDT_volatility_explosion",
+    "model_category": "other",
+    "symbol": "SOLUSDT",
+    "prediction": "BUY",
+    "confidence": 0.838959533360645,
+    "edge_bps": 167.791906672129,
+    "timestamp": 1755396020.8078046,
+    "features_used": 5
+  }
+]
